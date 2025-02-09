@@ -1,0 +1,57 @@
+name: wilton.metz
+description: upward-trending
+version: 0.0.1
+author: yonculu3.gi24p2ah@0ri66oon.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: wiltonmetz
+  parentArtefactID: team1739133147979
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-09 20:32:29'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-09 20:32:29'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-09T20:32:29.173758Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '533367703'
+  createdAt: '2025-02-09T20:32:29.173758Z'
+  type: plibMaven
+projectDependencies:
+  '394':
+    projectUID: 394
+    projectName: carey.lesch
+    repositoryPath: gitUri=http://gitserver:3000/dev_yRkKZsYv_team_664/dev_yRkKZsYv_project_394.git&subPath=
+    version: carey.lesch/0.45.425
+    isDefault: false
+    author: null
+    createdAt: '2025-02-09 20:32:29'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
